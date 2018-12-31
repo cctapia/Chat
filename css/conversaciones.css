@@ -1,0 +1,40 @@
+.bloqueamigo{
+	margin-top: -15px;
+	font-size: 12px;
+	background-color: #DFF0D8;
+	padding: -5px;
+
+
+	
+}
+.bloqueyo{
+	margin-top: -30px;
+	font-size: 12px;
+	background-color: #D9EDF7;
+	
+	
+}
+
+.bloqueamigo2{
+	
+
+	
+}
+.bloqueyo2{
+	
+	
+	
+}
+
+.text-left{
+	margin:-12px;
+	
+}
+#nombreusuario{
+	font-size:22px;
+}
+.fotodeamigos{
+	width: 45px;
+height:45px;
+padding-right: -20px;
+}

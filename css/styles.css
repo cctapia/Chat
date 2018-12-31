@@ -1,0 +1,50 @@
+body{
+	background-image: url(http://kloppex.ru/kart/15/para_zakat_doroga_chemodany_tanec_ozhidanie_1920x1200.jpg);
+	
+}
+.navbar{
+
+height: 50px;
+
+
+}
+#especial{
+margin-left: -25px;
+}
+.navbar-brand{
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+
+.navbar-nav{
+	margin-top: -10px;
+	font-size: 35px;
+}
+
+#imagenperfil{
+	margin-top: -1px;
+width: 40px;
+height:40px;
+padding-right: -20px;
+
+}
+.img-menosmargin{
+	margin-left: -10px;
+}
+
+#imagenamigos{
+
+width: 45px;
+height:45px;
+padding-right: -20px;
+
+}
+.maspequenio{
+	margin-top: 10px;
+	font-size: 20px;
+}
+.formato{
+	padding-left: 10px;
+	padding: 2px;
+}
+
